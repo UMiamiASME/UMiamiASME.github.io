@@ -29,7 +29,12 @@ social:
     icon: facebook-square 
   - title: OrgSync
     url: https://orgsync.com/55150/chapter/
-    icon: orgsync
+    icon: undo fa-magic {
+  -webkit-transform:rotateY(180deg);
+  -moz-transform:rotateY(180deg);
+  -o-transform:rotateY(180deg);
+  -ms-transform:rotateY(180deg);
+}
   - title: github
     url: https://github.com/UMiamiASME/
     icon: github
