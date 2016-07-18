@@ -26,7 +26,10 @@ permalink: pretty
 social:
   - title: Facebook
     url: https://www.facebook.com/UMASME/
+    icon: facebook-square 
   - title: OrgSync
     url: https://orgsync.com/55150/chapter/
+    icon: orgsync
   - title: github
     url: https://github.com/UMiamiASME/
+    icon: github
