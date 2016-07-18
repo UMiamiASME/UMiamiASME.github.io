@@ -1,7 +1,7 @@
 ---
 layout: default
 img: sub.png
-category: Projects
+category: Projects and Events
 title: Current Project Photo:<br>International Submarine Races
 description: |
 ---
