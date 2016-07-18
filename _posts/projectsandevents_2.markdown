@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: buildit.png
 category: Projects and Events
-title: 3D Device Mockups<br>by PSDCovers
+title: Highschool Outreach<br>by Build-It
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Build-It is an annual design and engineering competition for local high school students. Last year, there were over 400 students who participated. The event featured keynote speaker Alberto M. Carvalho, the Superintendent of Miami Dade County Public Schools. Keep an eye out for Built-It 2017!
