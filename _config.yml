@@ -6,10 +6,9 @@ url: http://UMiamiASME.github.io
 title: University of Miami ASME
 email: hurricane.asme@gmail.com
 author: UMiamiASME
-description: > # "Write an awesome description for your new site here. 
+description: > 
   Welcome to the official website for the American Society of Mechanical Engineers (ASME) at the University of Miami!
 copyright: 'Copyright &copy; 2017 UMiami ASME. All Rights Reserved.'
-credits: 'Credits: open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
